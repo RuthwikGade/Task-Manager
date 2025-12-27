@@ -1,6 +1,6 @@
-📝 MERN Task Manager Application
+**📝 MERN Task Manager Application**
 
-1️. About the Project
+**1️. About the Project**
 
 This is a simple full-stack Task Manager application built using the MERN stack.
 The project demonstrates how a React frontend communicates with a Node.js and Express backend through REST APIs, with data stored in MongoDB Atlas.
@@ -8,7 +8,7 @@ The project demonstrates how a React frontend communicates with a Node.js and Ex
 Users can create, view, update, and delete tasks in real time.
 This project is intended for learning full-stack development fundamentals such as CRUD operations, frontend-backend integration, and database connectivity.
 
-2️. Features
+**2️. Features**
 
 ➕ Add new tasks
 
@@ -24,7 +24,7 @@ This project is intended for learning full-stack development fundamentals such a
 
 🔄 Real-time UI updates using React state
 
-3️. Technologies Used
+**3️. Technologies Used**
 🛠️ Frontend
 
 React
@@ -49,7 +49,7 @@ dotenv
 
 cors
 
-4️. Local Setup
+**4️. Local Setup**
 ⚙️ Environment Variables
 
 Create a .env file inside the backend folder:
@@ -96,9 +96,8 @@ GET	/app/api/Tasks	Fetch all tasks
 POST	/app/api/Add	Add a new task
 PATCH	/app/api/update/:id	Update a task
 DELETE	/app/api/delete/:id	Delete a task
-📌 Future Enhancements
 
-✏️ Edit task text
+**5. Future Enhancements**
 
 🔐 User authentication (JWT)
 
@@ -108,7 +107,7 @@ DELETE	/app/api/delete/:id	Delete a task
 
 🚀 Deployment (Netlify + Render)
 
-⭐ Conclusion
+**6. Conclusion**
 
 This project helped reinforce:
 
